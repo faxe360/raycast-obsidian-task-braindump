@@ -3,6 +3,7 @@
 Puts a string as a markdown checkbox at the end of a file. 
 
 ## Setup:
+- Copy to your raycast script folder.
 - Configure the path, Vault Name and file to append to.
 ## Usage:
 - Keyword `bd` followed by your input string. Checkbox markdown is prefixed automatically
