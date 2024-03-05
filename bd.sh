@@ -17,9 +17,9 @@
 # @raycast.authorURL https://github.com/faxe360/raycast-obsidian-task-braindump
 
 # The name of your vault, e.g., "Knowledge Base"
-VAULT_PATH="/Users/timoeismar/Documents"
-VAULT_NAME="Obsidian Vault"
-TASK_FILE="Raycast Tasks.md"
+VAULT_PATH="YOUR PATH"
+VAULT_NAME="YOUR VAULT"
+TASK_FILE="YOUR FILE"
 
 if [ -z "$VAULT_NAME" ]
 then
