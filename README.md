@@ -1,6 +1,7 @@
-# Markdown Braindump Alfred Workflow
+# Markdown Braindump Raycast Workflow
 
 Puts a string as a markdown checkbox at the end of a file. 
+Inspired by https://github.com/moritz-muecke/alfred-markdown-braindump
 
 ## Setup:
 - Copy to your raycast script folder.
