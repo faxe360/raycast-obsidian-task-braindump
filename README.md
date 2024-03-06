@@ -1,10 +1,11 @@
 # Markdown Braindump Raycast Workflow
 
 Puts a string as a markdown checkbox at the end of a file. 
+
 Inspired by https://github.com/moritz-muecke/alfred-markdown-braindump
 
 ## Setup:
-- Copy to your raycast script folder.
+- Create Script from raycast with the shell script file
 - Configure the path, Vault Name and file to append to.
 ## Usage:
 - Keyword `bd` followed by your input string. Checkbox markdown is prefixed automatically
