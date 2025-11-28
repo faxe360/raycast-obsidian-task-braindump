@@ -28,5 +28,5 @@ then
 fi
 
 cat << EOF >> "$VAULT_PATH/$VAULT_NAME/$TASK_FILE"
-- [ ] ${1}
+- [ ] ${1} (added $(date "+%F %H:%M:%S"))
 EOF
